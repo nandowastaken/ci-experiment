@@ -4,7 +4,7 @@
   "description": "This is a node.js app to test a node.js ci ",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node app.js"
   },
   "repository": {
     "type": "git",
