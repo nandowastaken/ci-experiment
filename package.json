@@ -1,0 +1,19 @@
+{
+  "name": "ci-experiment",
+  "version": "1.0.0",
+  "description": "This is a node.js app to test a node.js ci ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandowastaken/ci-experiment.git"
+  },
+  "author": "nan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandowastaken/ci-experiment/issues"
+  },
+  "homepage": "https://github.com/nandowastaken/ci-experiment#readme"
+}
